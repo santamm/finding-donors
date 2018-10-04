@@ -1,5 +1,5 @@
 # finding-donors
-Boston Seattle Airbnb Analysis for udacity project
+Finding Donors for CharityML
 
 ### Table of Contents
 
