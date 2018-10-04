@@ -1,5 +1,5 @@
 # finding-donors
-Finding Donors for CharityML
+## Finding Donors for CharityML
 
 ### Table of Contents
 
